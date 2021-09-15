@@ -1,4 +1,4 @@
-public class ArrayRev
+public class Arrayrev
 {
 	public static void main(String[] args) 
 {
